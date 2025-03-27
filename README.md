@@ -1,1 +1,2 @@
+#Voro Project
 Voro Project is a game inspired by Axie Infinity, an NFT video game that enjoyed significant growth in 2020/2021. However, due to its NFT content, it was largely ignored by many players due to its barrier to entry and lack of knowledge or distrust of the crypto world. Voro Project doesn't take any cues from the NFT, crypto, or economic aspects of Axie Infinity, but it draws significant inspiration from its gameplay and character creation. Currently, the game is 100% free, with the possibility of being sold on Steam.
